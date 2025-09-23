@@ -96,7 +96,7 @@ function draw() {
     console.log("text");
     fill(255,0,0);
     textSize(100);
-   text("finally oh my god",400,100);
+   text("yay! you did it!",400,100);
   }
   
 // function keyPressed() {
